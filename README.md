@@ -2,7 +2,6 @@
 Example of an agent built in Python using the Claude Agent SDK. Amend the agent.py script to suit your own requirements in an agent.
 # Usage
 Requires that you build a suitable Python Virtual Environment (venv) to execute:
-
 `python3 -m venv .venv` 
 
 Activate the venv:
