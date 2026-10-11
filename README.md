@@ -16,8 +16,11 @@ Execute agent:
 Main settings you’ll adjust:
 
 Tools. `Read/Glob/Grep` give read-only analysis. Adding `Edit` lets the agent modify files. Adding `Bash` gives full automation. `WebSearch` adds web access.
+
 `permission_mode` sets how much human approval the agent needs.
+
 `system_prompt` sets the agent’s role and rules.
+
 `mcp_servers` connects the agent to databases, APIs and other external systems. This is how you’d point it at your own data sources.
 
 [Agent SDK Quickstart](https://code.claude.com/docs/en/agent-sdk/quickstart)
